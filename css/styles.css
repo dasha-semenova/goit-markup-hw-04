@@ -191,6 +191,7 @@ header - start */
     background-size: cover, cover;
     padding-top: 188px;
     padding-bottom: 188px;
+    margin: 0 auto;
 }
 
 .hero-title,
@@ -316,11 +317,13 @@ header - start */
     align-items: center;
     width: 40px;
     height: 40px;
-    fill: #f4f4fd;
     background-color: #4D5AE5;
     border-radius: 50%;
 }
 
+.our-team-social-icons-svg {
+    fill: #f4f4fd;
+}
 /* ---------------------------------------
 Секция 4 - Портфолио - start */
 
@@ -443,5 +446,5 @@ footer - start */
 }
 
 .footer-social-icons-link-svg {
-    fill: #fff;
+    fill: #f4f4fd;
 }
